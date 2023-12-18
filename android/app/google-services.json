@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330970756177",
+    "project_id": "dogsdatingapp",
+    "storage_bucket": "dogsdatingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330970756177:android:c76cba171e21b7aec5f470",
+        "android_client_info": {
+          "package_name": "com.example.dogs_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhBIFP1tNS8ec5vLXBPQsuLwIEr-2dn2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
